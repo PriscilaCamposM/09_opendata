@@ -194,7 +194,6 @@ daymet_all
 Let's inspect weather data for the first site-year.  
 
 ```{r}
-
 ```
 
 Now let's unnest the weather column.  
